@@ -7,8 +7,8 @@
 
 ## Iteration XX - Review & Retrospect
 
- * When: FILL IN THE DATE WHEN YOU ACTUALLY HAD YOUR REVIEW MEETING
- * Where: PHYSICAL LOCATION AND/OR ONLINE
+ * When: October 5 and 10, 2017
+ * Where: Sidney Smith Lounge
 
 ## Process - Reflection
 
@@ -44,6 +44,9 @@ List any process-related changes you are planning to make (if there are any)
 ## Product - Review
 
 #### Goals and/or tasks that were met/completed:
+
+- Think about real-life problems we see or face
+- Decide on a problem that is most pressing and for which we have a potential solution
 
  * From most to least important.
  * Refer/link to artifact(s) that show that a goal/task was met/completed.

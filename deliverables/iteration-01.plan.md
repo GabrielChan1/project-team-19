@@ -6,8 +6,8 @@
 
 ## Iteration XX
 
- * Start date: FILL IN THE DATE WHEN YOU HAD YOUR FIRST TEAM PLANNING MEETING
- * End date: FILL IN THE DATE WHEN YOU ARE PLANNING TO HAVE YOUR REVIEW MEETING
+ * Start date: October 5th, 2017
+ * End date: October 10, 2017
 
 ## Process
 
@@ -18,6 +18,8 @@
 Describe the different roles on the team and the responsibilities associated with each role.
 
 #### Events
+There will be meetings every Thursday at the Sidney Smith lounge to discuss the previous week's progress and decide what went as planned and what did not. For the activities that did not go as planned discuss what went wrong and how it can be overcome and achieved the following week. Finally, based on the previous week's progress, come up with a consensus on what the plan for the next iteration will be and assign roles accordingly.
+Other than the weekly meeting group members update each other through a whatsapp group to clarify team goals, resolve any problems that may arise while working on his/her role and communicate information about meetings (such as a synopsis of the meeting for members who could not attend and reminders for future meetings).
 
 Describe meetings (and other events) you are planning to have:
 
@@ -27,7 +29,10 @@ Describe meetings (and other events) you are planning to have:
 
 #### Artifacts
 
-List/describe the artifacts you will produce in order to organize your team.       
+List/describe the artifacts you will produce in order to organize your team.   
+
+- To do lists:
+      list of tasks that must be completed in a given iteration, ordered by priority from highest to lowest.
 
  * Artifacts can be To-do lists, Task boards, schedule(s), etc.
  * We want to understand:

@@ -5,9 +5,7 @@
 
 #### Q1: What are you planning to build?
 
-YOUR ANSWER GOES HERE ...
-
-A mobile app that will allow users to give money to help a particular homeless person without giving them cash. Nowadays, some people do not carry cash, or are afraid that their change will be used for drugs or alcohol, and won't help the homeless person in the long term. With our app, users will be able to quickly donate small amounts of money from a bank account or credit card to a homeless person's "account", and the homeless person can only redeem this money at a local shelter for clothing or other essential items. Users will also be able to give larger donations to a homeless person that will go towards a particular item that they need.
+A mobile app that will allow users to give money to help a particular homeless person without giving them cash. Nowadays, most people do not carry cash, or are afraid that their change will be used for drugs or alcohol, and won't help the homeless person in the long term. With our mobile app, users will be able to quickly donate small amounts of money from a bank account or credit card to a homeless person's "account", and the homeless person can only redeem this money at a local shelter for clothing or other essential items. Users will also be able to give larger donations to a homeless person that will go towards a particular item that they need.
 
  * Short (1 - 2 min' read)
  * Start with a single sentence, high-level description of the product.
@@ -23,8 +21,6 @@ A mobile app that will allow users to give money to help a particular homeless p
 
 #### Q2: Who are your target users?
 
-YOUR ANSWER GOES HERE ...
-
 We are primarily targeting people who are afraid to give money or do not carry cash, and feel a sense of guilt when they pass a homeless person on a random street, unable to help. We would also like to target people who see the same homeless people every day, and wish to help them with a larger donation towards a particular item that they need.
 
  * Short (1 - 2 min' read max)
@@ -34,9 +30,7 @@ We are primarily targeting people who are afraid to give money or do not carry c
 
 #### Q3: Why would your users choose your product? What are they using today to solve their problem/need?
 
-YOUR ANSWER GOES HERE ...
-
-There currently is no mobile app in Toronto which allows users to give money directly to the homeless, so there is no direct competitor for our product. In order to help homeless people in Toronto, the only real option is to donate money or used clothing to a homeless shelter, but this only goes towards the general homeless population, and not a particular person. 
+There currently is no mobile app in Toronto which allows users to give money directly to the homeless, so there is no direct competitor for our product. As of now, in order to help homeless people in Toronto, the only real option is to donate money or used clothing to a homeless shelter, but this only goes towards the general homeless population, and not a particular person. 
 
 There is a similar app called Samaritan for giving to the homeless in Seattle, but it was only recently developed by a start-up in 2016. There does not seem to be any plans to expand the Samaritan app for other cities in either Canada or the US as of now.
 

@@ -6,7 +6,7 @@
 
 ## Iteration XX
 
- * Start date: October 5th, 2017
+ * Start date: September 28, 2017
  * End date: October 10, 2017
 
 ## Process
@@ -17,15 +17,23 @@
 
 Describe the different roles on the team and the responsibilities associated with each role.
 
+James Leja - Team leader: supervise the general process, communicate between the team and TA
+Madumitha Ravichandran -
+Anujan Murugesu -
+Gabriel Chan -
+Alexander Chong
+Grey Ge
+Runhao Liang - Arrange meeting, manage the WhatsApp group
+
 #### Events
-There will be meetings every Thursday at the Sidney Smith lounge to discuss the previous week's progress and decide what went as planned and what did not. For the activities that did not go as planned discuss what went wrong and how it can be overcome and achieved the following week. Finally, based on the previous week's progress, come up with a consensus on what the plan for the next iteration will be and assign roles accordingly.
-Other than the weekly meeting group members update each other through a whatsapp group to clarify team goals, resolve any problems that may arise while working on his/her role and communicate information about meetings (such as a synopsis of the meeting for members who could not attend and reminders for future meetings).
 
-Describe meetings (and other events) you are planning to have:
+There will be meetings every Thursday 13:00 - 14:00 at the Sidney Smith lounge to discuss the previous week's progress and decide what went as planned and what did not.
 
- * When and where? In-person or online?
- * What's the purpose of each meeting?
- * Other events could be coding sessions, code reviews, quick weekly sync' meeting online, etc.
+In the first half of a meeting, group members will share what she/he has done in the last week, what problems he/she meets. For the activities that did not go as planned discuss what went wrong and how it can be overcome and achieved the following week.
+
+In the senond half, based on the previous week's progress, come up with a consensus on what the plan for the next iteration will be and assign roles accordingly. Also, discuss what potential problems there might be.
+
+Other than the weekly meeting, group members update each other through a whatsapp group to clarify team goals, resolve any problems that may arise while working on his/her role and communicate information about meetings (such as a synopsis of the meeting for members who could not attend and reminders for future meetings). If any member can not show up in the next meeting, she/he need to inform everyone in the WhatsApp Group at least 24 hours in advance.
 
 #### Artifacts
 
